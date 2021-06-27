@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
+## si usas angular 11
+si tienen problemas con angular 11 o por ahi la version que hay que instalar de los paquetes es    
+- npm install chart.js@2.9.3 --save 
+- npm install ng2-charts@2.2.3 --save
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
